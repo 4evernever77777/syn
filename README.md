@@ -1,4 +1,4 @@
-Parser for Rust source code
+a109d3123412ec9bced7fd87354a2c057be1db4dParser for Rust source code
 ===========================
 
 [<img alt="github" src="https://img.shields.io/badge/github-dtolnay/syn-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/dtolnay/syn)
